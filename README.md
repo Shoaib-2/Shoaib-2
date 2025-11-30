@@ -74,25 +74,25 @@ const shoaibMohammed = {
 ### 🏆 [CuraLink](https://github.com/Shoaib-2/CuraLink-Hackathon-Shoaib-Mohammed) 
 **🥈 2nd Place Hackathon Winner**
 
-AI-powered platform connecting patients & researchers with clinical trials, medical publications, and health experts.
+AI-powered healthcare platform bridging patients & researchers. Features personalized clinical trial matching, health expert discovery, real-time chat, and community forums with Google Gemini AI integration.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://cura-link-hackathon-shoaib-mohammed.vercel.app/)
 [![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/CuraLink-Hackathon-Shoaib-Mohammed)
 
-`Next.js` `TypeScript` `AI` `PostgreSQL`
+`Next.js` `TypeScript` `PostgreSQL` `Gemini AI` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📧 [SendStream](https://github.com/Shoaib-2/SendStream)
-**SaaS Newsletter Platform**
+**Full-Stack SaaS Newsletter Platform**
 
-Modern full-stack platform for creating, sending, and managing newsletters with analytics dashboard.
+Enterprise-grade newsletter automation with AI-powered content generation (GPT-3.5), SendGrid delivery, Stripe subscriptions, Mailchimp sync, real-time WebSocket updates, and comprehensive analytics dashboard.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://send-stream.vercel.app/)
 [![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/SendStream)
 
-`Next.js` `TypeScript` `AI` `Tailwind`
+`Next.js 15` `TypeScript` `MongoDB` `OpenAI` `Stripe`
 
 </td>
 </tr>
@@ -100,14 +100,14 @@ Modern full-stack platform for creating, sending, and managing newsletters with 
 <td width="50%" valign="top">
 
 ### 📊 [RankForge](https://github.com/Shoaib-2/RankForge)
-**AI-Powered SEO Platform**
+**AI-Powered SEO Analysis Platform**
 
-Comprehensive SEO analysis and optimization platform with keyword tracking and AI-powered insights.
+Comprehensive SEO tool with website analysis, keyword tracking, competitor monitoring, and AI-powered insights via Google Gemini. Export reports in PDF/CSV/Excel with admin dashboard for usage monitoring.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://seo-rankforge.vercel.app/)
 [![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/RankForge)
 
-`Next.js` `SEO` `AI` `Analytics`
+`React` `Node.js` `MongoDB` `Gemini AI` `Tailwind`
 
 </td>
 <td width="50%" valign="top">
@@ -115,11 +115,11 @@ Comprehensive SEO analysis and optimization platform with keyword tracking and A
 ### 🔢 [Sort Your Life](https://github.com/Shoaib-2/Sort-your-life-with-algo)
 **Algorithm Visualizer**
 
-Interactive web app to visualize various sorting algorithms with step-by-step animations.
+Interactive web app to visualize sorting algorithms with step-by-step animations. Educational tool for understanding algorithm complexity and behavior.
 
 [![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/Sort-your-life-with-algo)
 
-`JavaScript` `Algorithms` `Visualization`
+`JavaScript` `Algorithms` `CSS Animations`
 
 </td>
 </tr>
