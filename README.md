@@ -1,164 +1,215 @@
-<!-- Profile Banner (SVG preferred, PNG fallback) -->
-<p align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="assets/banner.svg" />
-    <img src="assets/banner.png" alt="Shoaib Developer Banner" width="100%"/>
-  </picture>
-</p>
-
-<h1 align="center">Hi, I'm Shoaib 👋</h1>
-<p align="center">Frontend-focused engineer crafting clean, performant, and user-centric web experiences.</p>
+<img src="assets/header.svg" width="100%" alt="Shoaib - Frontend Engineer"/>
 
 <p align="center">
-  <a href="https://shoaib3-dportfolio.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-shoaib-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.threads.net/@e_shoaib_7" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-  <a href="https://x.com/MdShoaib619538" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
----
-
-## 🚀 What I Do
-- Build accessible, responsive interfaces with **React**, **Next.js**, **TypeScript**, and **TailwindCSS**.
-- Explore **Three.js** & creative UI interactions to elevate user experience.
-- Love turning ideas into polished products with attention to detail.
-- Currently deepening expertise in **Scalable Frontend Architecture** & **Design Systems**.
-
-## 🧰 Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-## 📌 Featured Projects
-| Project | Stack | Summary |
-| ------- | ----- | ------- |
-| [RankForge](https://github.com/Shoaib-2/RankForge) | Next.js · SEO · AI | Full-stack platform for SEO analysis & actionable insights. |
-| [SendStream](https://github.com/Shoaib-2/SendStream) | Next.js · TypeScript · AI | SaaS newsletter sending & analytics with streamlined UX. |
-| [Sort Your Life With Algo](https://github.com/Shoaib-2/Sort-your-life-with-algo) | Vanilla JS | Interactive visualizer for multiple sorting algorithms. |
-| [SudokuApp](https://github.com/Shoaib-2/SudokuApp) | HTML · JS | Classic Sudoku with clean UI and logic flow. |
-| [GrowMe Internship Assignment](https://github.com/Shoaib-2/GrowMe-Organic-InternshipAssignement-Shoaib-Mohammed) | TypeScript | Practical assignment showcasing app architecture & patterns. |
-
-> Want more? Explore my repositories for experiments & learning journeys.
-
-## 📊 GitHub Activity
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shoaib-2&show_icons=true&hide_border=true&theme=radical"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib-2&hide_border=true&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-2&layout=compact&hide_border=true&theme=radical"/>
+  <a href="https://shoaib3-dportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-shoaib-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/MdShoaib619538"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.threads.net/@e_shoaib_7"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <!-- Daily generated metrics (requires workflow + PAT) -->
-  <img height="160" src="metrics.svg" alt="Dynamic Metrics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Frontend+Engineer+%7C+React+%7C+Next.js;Building+fast%2C+accessible%2C+beautiful+interfaces" alt="Typing SVG" />
 </p>
 
-<!-- Optional Trophy Section -->
+<br/>
+
+<!-- About Section with modern card style -->
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧑‍💻 About Me
+
+```typescript
+const shoaib = {
+  location: "India 🇮🇳",
+  education: "Newcastle University",
+  roles: ["Frontend Engineer", "UI Enthusiast"],
+  currentFocus: "Design Systems & Performance",
+  funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Facts
+
+- 🔭 Building **RankForge** - AI-powered SEO platform
+- 🌱 Learning **Advanced React Patterns**
+- 🏆 **2nd Place** - CuraLink Hackathon
+- 💬 Ask me about **React, Next.js, TypeScript**
+- 📫 Reach me at **LinkedIn** (linked above)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Tech Stack with modern icons -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shoaib-2&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,threejs,postgresql,git,vscode&theme=dark&perline=5" />
 </p>
 
-## ⏱ WakaTime (Last 7 days)
+<details>
+<summary><b>📊 More Technologies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,figma,mongodb,prisma,vercel,github,npm,vite&theme=dark&perline=5" />
+</p>
+</details>
+
+<br/>
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Shoaib-2/RankForge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=RankForge&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/Shoaib-2/SendStream">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=SendStream&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shoaib-2/Sort-your-life-with-algo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=Sort-your-life-with-algo&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/Shoaib-2/SudokuApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=SudokuApp&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
+  </a>
+</p>
+
+<br/>
+
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shoaib-2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&text_color=FFFFFF&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib-2&hide_border=true&background=0D1117&stroke=38BDF8&ring=F8D866&fire=F8D866&currStreakLabel=38BDF8&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=888888" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-2&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib-2&bg_color=0D1117&color=38BDF8&line=F8D866&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shoaib-2&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+<br/>
+
+<!-- WakaTime Stats -->
+<h2 align="center">⏱️ Weekly Development</h2>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br/>
 
-## 🧠 Current Focus
-- Improving DX & performance in complex React apps
-- Building reusable component libraries & tokens (Design Systems)
-- Exploring progressive enhancement & resilient UI patterns
-- Sharpening TypeScript domain modeling skills
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements</h2>
 
-## 🌱 Learning Roadmap
-```text
-Short Term: Advanced Next.js routing patterns · Accessibility audits
-Mid Term: State machines & orchestration · WebGL UI micro-interactions
-Long Term: Full-stack platform scalability · Open source mentorship
-```
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🥈_2nd_Place-CuraLink_Hackathon-FFD700?style=for-the-badge" />
+<br/><br/>
+<b>CuraLink MVP</b><br/>
+AI-powered clinical trial & expert discovery platform
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/544+_Contributions-Last_Year-38BDF8?style=for-the-badge" />
+<br/><br/>
+<b>Consistent Builder</b><br/>
+Daily commits, continuous improvement
+</td>
+</tr>
+</table>
 
-## 🤝 Collaboration & Values
-I value clean architecture, thoughtful naming, and empathetic UX. I enjoy collaborating on projects where polish and usability really matter.
+<br/>
 
-## 📬 Reach Out
-Feel free to connect for collaboration, reviews, or mentorship.
-
-- Portfolio: https://shoaib3-dportfolio.netlify.app
-- LinkedIn: in/mohammed-shoaib-dev
-- Threads: @e_shoaib_7
-- X: @MdShoaib619538
-
-## 🛠 Ideas for Future Enhancements (Automated)
-- Add a GitHub Action to update WakaTime coding stats automatically.
-- Auto-refresh recent commits & contributions via metrics tools (e.g., `lowlighter/metrics`).
-- Inject latest blog posts or bookmarked articles (if you start writing).
-- Showcase Open Source contributions using a `CONTRIBUTIONS.md` aggregator.
-- Add a dynamic banner generated via a canvas script (date + quote + stack).
-
-## 🧩 Open Source Contributions
-Focused on clarity, usability, and incremental improvement.
+<!-- Open Source Contributions -->
+<details>
+<summary><h2>🧩 Open Source Contributions</h2></summary>
+<br/>
 
 **SudokuApp (Fork)**
-- Modernized layout & spacing for improved readability on small screens.
-- Added subtle focus + hover states for better keyboard accessibility.
-- Improved input validation to prevent duplicate candidate entries.
-- Refactored puzzle load logic for cleaner state re-initialization.
-- (Placeholder) Add more contributions here — refine with exact PRs/commits.
+- ✨ Modernized layout & spacing for improved readability
+- ♿ Added focus + hover states for keyboard accessibility  
+- 🛡️ Improved input validation
+- 🔄 Refactored puzzle load logic
 
-> For transparency: Some bullet points are generalized; feel free to replace with specific commit hashes or PR links.
+**CuraLink (Hackathon)**
+- 🏗️ Set up Next.js architecture with clear patient/researcher flows
+- 🎨 Built minimal, intuitive onboarding UI
+- 🔍 Implemented condition-based filtering prototype
 
-## 🏆 Achievements
-- Secured <strong>2nd Place</strong> in a hackathon building the **CuraLink** MVP (AI-powered clinical trial & expert discovery platform).<br/>
-  Demo: [Live Deployment](https://your-curalink-demo.example) <!-- Replace with actual deployed URL -->
-- Completed multiple high-velocity prototype sprints emphasizing performance + DX.
+</details>
 
-## 🔄 Automation Status
-- Metrics workflow added (`.github/workflows/metrics.yml`) – generates `metrics.svg` daily (includes WakaTime plugin when secret added).
-- WakaTime workflow added (`.github/workflows/wakatime.yml`) – updates README stats block daily.
-- Blog posts workflow added (`.github/workflows/blog.yml`) – injects latest posts via RSS placeholder.
-- Dynamic banner script (`scripts/generate-banner.js`) – regenerate banner with date/tagline.
-- Contributions timestamp updater (`scripts/update-contributions.js`) – prepares for automated commit history surfacing.
+<br/>
 
-## 📂 Repository Structure (Planned)
-```
-Shoaib-2/
-├─ assets/              # Images, banner.svg (+ optional banner.png)
-├─ README.md            # Profile README
-├─ CONTRIBUTIONS.md     # Structured contributions list
-├─ scripts/             # Automation scripts (banner, contributions)
-│  ├─ generate-banner.js
-│  └─ update-contributions.js
-└─ .github/workflows/   # Automation actions (metrics, wakatime, blog)
-```
+<!-- Blog Posts -->
+<details>
+<summary><h2>📝 Latest Blog Posts</h2></summary>
+<br/>
 
-## ✅ Next Steps Checklist
-- [x] Add `assets/banner.svg` (adaptive, dark-friendly)
-- [ ] (Optional) Create `assets/banner.png` raster fallback
-- [x] Create metrics workflow (`metrics.yml`)
-- [x] Add WakaTime workflow (`wakatime.yml`)
-- [x] Add blog posts workflow (`blog.yml`)
-- [x] Add dynamic banner script
-- [x] Add contributions aggregation script + file
-- [ ] Provide real CuraLink demo URL
-- [ ] Add actual commit/PR references to `CONTRIBUTIONS.md`
-- [ ] Add RSS feed URL for blog workflow
-- [ ] Add WakaTime API secret `WAKATIME_API_KEY`
+<!-- BLOG-POST-LIST:START -->
+*Coming soon! Follow me for updates.*
+<!-- BLOG-POST-LIST:END -->
 
----
+</details>
+
+<br/>
+
+<!-- Current Focus -->
+<h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
-  <i>"Great software is equal parts clarity, rigor, and empathy."</i>
+  <img src="https://img.shields.io/badge/Design_Systems-0D1117?style=for-the-badge&logo=storybook&logoColor=FF4785" />
+  <img src="https://img.shields.io/badge/Performance-0D1117?style=for-the-badge&logo=lighthouse&logoColor=F44B21" />
+  <img src="https://img.shields.io/badge/Accessibility-0D1117?style=for-the-badge&logo=accessibility&logoColor=0056B3" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+</p>
+
+<br/>
+
+<!-- Connect -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <i>Open for collaborations, freelance projects, and interesting conversations!</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shoaib-2&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://shoaib3-dportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shoaib-2&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <i>"Great software is equal parts clarity, rigor, and empathy."</i>
 </p>
