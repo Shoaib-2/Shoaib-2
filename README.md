@@ -67,23 +67,63 @@ const shoaibMohammed = {
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Shoaib-2/RankForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=RankForge&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/Shoaib-2/SendStream">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=SendStream&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Shoaib-2/Sort-your-life-with-algo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=Sort-your-life-with-algo&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/Shoaib-2/SudokuApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shoaib-2&repo=SudokuApp&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" />
-  </a>
-</p>
+### 🏆 [CuraLink](https://github.com/Shoaib-2/CuraLink-Hackathon-Shoaib-Mohammed) 
+**🥈 2nd Place Hackathon Winner**
+
+AI-powered platform connecting patients & researchers with clinical trials, medical publications, and health experts.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://cura-link-hackathon-shoaib-mohammed.vercel.app/)
+[![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/CuraLink-Hackathon-Shoaib-Mohammed)
+
+`Next.js` `TypeScript` `AI` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 [SendStream](https://github.com/Shoaib-2/SendStream)
+**SaaS Newsletter Platform**
+
+Modern full-stack platform for creating, sending, and managing newsletters with analytics dashboard.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://send-stream.vercel.app/)
+[![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/SendStream)
+
+`Next.js` `TypeScript` `AI` `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [RankForge](https://github.com/Shoaib-2/RankForge)
+**AI-Powered SEO Platform**
+
+Comprehensive SEO analysis and optimization platform with keyword tracking and AI-powered insights.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://seo-rankforge.vercel.app/)
+[![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/RankForge)
+
+`Next.js` `SEO` `AI` `Analytics`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔢 [Sort Your Life](https://github.com/Shoaib-2/Sort-your-life-with-algo)
+**Algorithm Visualizer**
+
+Interactive web app to visualize various sorting algorithms with step-by-step animations.
+
+[![Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-2/Sort-your-life-with-algo)
+
+`JavaScript` `Algorithms` `Visualization`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -91,17 +131,23 @@ const shoaibMohammed = {
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shoaib-2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib-2&hide_border=true&background=0D1117&stroke=38BDF8&ring=F8D866&fire=F8D866&currStreakLabel=38BDF8&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=888888" />
+  <a href="https://github.com/Shoaib-2">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shoaib-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Shoaib-2">
+    <img height="180" src="https://streak-stats.demolab.com?user=Shoaib-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F8D866&fire=F8D866&currStreakLabel=38BDF8" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-2&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" />
+  <a href="https://github.com/Shoaib-2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" />
+  </a>
 </p>
 
-<!-- Activity Graph -->
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib-2&bg_color=0D1117&color=38BDF8&line=F8D866&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib-2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=F8D866&point=FFFFFF&area=true" />
 </p>
 
 <!-- Trophies -->
@@ -120,13 +166,19 @@ const shoaibMohammed = {
 <img src="https://img.shields.io/badge/🥈_2nd_Place-CuraLink_Hackathon-FFD700?style=for-the-badge" />
 <br/><br/>
 <b>CuraLink MVP</b><br/>
-AI-powered clinical trial & expert discovery platform
+AI-powered clinical trial & expert discovery platform<br/><br/>
+<a href="https://cura-link-hackathon-shoaib-mohammed.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 </td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/544+_Contributions-Last_Year-38BDF8?style=for-the-badge" />
 <br/><br/>
 <b>Consistent Builder</b><br/>
-Daily commits, continuous improvement
+Daily commits, continuous improvement<br/><br/>
+<a href="https://github.com/Shoaib-2">
+  <img src="https://img.shields.io/badge/View_Profile-0D1117?style=flat-square&logo=github&logoColor=white" />
+</a>
 </td>
 </tr>
 </table>
