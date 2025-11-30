@@ -34,7 +34,7 @@
 ```typescript
 const shoaibMohammed = {
   location: "Currently 🇮🇳 India, Looking for opportunities in the UK and Europe",
-  education: "MSc. in Computer Science, Newcastle University",
+  education: "MSc. Computer Science, Newcastle University, UK",
   role: "Frontend Engineer & Full-Stack Developer",
   
   expertise: {
