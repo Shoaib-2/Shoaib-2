@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+Full-Stack+Developer;Building+scalable%2C+accessible%2C+beautiful+interfaces.;React+•+Next.js+•+TypeScript+•+AI+Integration" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+Full-Stack+Developer;Building+scalable,+accessible,+beautiful+interfaces.;React+•+Next.js+•+TypeScript+•+AI+Integration" alt="Typing Animation"/>
 
 </div>
 
@@ -251,12 +251,12 @@ Interactive web application for visualizing sorting algorithms with **step-by-st
 
 ## 📈 GitHub Performance Metrics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shoaib-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shoaib-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F8D866&fire=F8D866&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shoaib-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shoaib-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F8D866&fire=F8D866&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 <br/><br/>
 
