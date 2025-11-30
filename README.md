@@ -33,8 +33,8 @@
 
 ```typescript
 const shoaibMohammed = {
-  location: "🇮🇳 India",
-  education: "Newcastle University",
+  location: "Currently 🇮🇳 India, Looking for opportunities in the UK and Europe",
+  education: "MSc. in Computer Science, Newcastle University",
   role: "Frontend Engineer & Full-Stack Developer",
   
   expertise: {
