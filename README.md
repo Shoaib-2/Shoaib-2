@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+Full-Stack+Developer;Building+scalable%2C+accessible%2C+beautiful+interfaces.;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI+Integration" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+Full-Stack+Developer;Building+scalable%2C+accessible%2C+beautiful+interfaces.;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+AI+Integration" alt="Typing Animation"/>
 
 </div>
 
