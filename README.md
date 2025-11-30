@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Shoaib - Frontend Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Shoaib Mohammed - Frontend Engineer"/>
 
 <p align="center">
   <a href="https://shoaib3-dportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Frontend+Engineer+%7C+React+%7C+Next.js;Building+fast%2C+accessible%2C+beautiful+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Frontend+Engineer+%7C+React+%7C+Next.js;Building+fast%2C+accessible%2C+beautiful+interfaces." alt="Typing SVG" />
 </p>
 
 <br/>
@@ -21,7 +21,7 @@
 ### 🧑‍💻 About Me
 
 ```typescript
-const shoaib = {
+const shoaibMohammed = {
   location: "India 🇮🇳",
   education: "Newcastle University",
   roles: ["Frontend Engineer", "UI Enthusiast"],
@@ -111,14 +111,6 @@ const shoaib = {
 
 <br/>
 
-<!-- WakaTime Stats -->
-<h2 align="center">⏱️ Weekly Development</h2>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
 <!-- Achievements -->
 <h2 align="center">🏆 Achievements</h2>
 
@@ -156,19 +148,6 @@ Daily commits, continuous improvement
 - 🏗️ Set up Next.js architecture with clear patient/researcher flows
 - 🎨 Built minimal, intuitive onboarding UI
 - 🔍 Implemented condition-based filtering prototype
-
-</details>
-
-<br/>
-
-<!-- Blog Posts -->
-<details>
-<summary><h2>📝 Latest Blog Posts</h2></summary>
-<br/>
-
-<!-- BLOG-POST-LIST:START -->
-*Coming soon! Follow me for updates.*
-<!-- BLOG-POST-LIST:END -->
 
 </details>
 

@@ -90,8 +90,8 @@
   
   <!-- Main text -->
   <text x="600" y="120" text-anchor="middle" class="name" filter="url(#textGlow)">
-    <tspan fill="#ffffff">Mohammed </tspan>
-    <tspan class="accent">Shoaib</tspan>
+    <tspan fill="#ffffff">Shoaib </tspan>
+    <tspan class="accent">Mohammed</tspan>
   </text>
   
   <!-- Role with typing cursor effect -->
