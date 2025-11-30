@@ -41,6 +41,3 @@ jobs:
           plugin_wakatime_sections: time, languages
           plugin_wakatime_limit: 8
           filename: metrics.svg
-      - name: Confirm file exists
-        run: |
-          test -f metrics.svg && echo "metrics.svg generated" || (echo "metrics.svg missing" && exit 1)

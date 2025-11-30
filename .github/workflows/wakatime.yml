@@ -5,13 +5,19 @@ on:
     - cron: '15 3 * * *' # Daily at 03:15 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Update WakaTime section
         uses: athul/waka-readme@v0.3.0
         with:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
