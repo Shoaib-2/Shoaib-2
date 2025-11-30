@@ -1,0 +1,19 @@
+name: Blog Posts
+
+on:
+  schedule:
+    - cron: '30 3 * * *' # Daily at 03:30 UTC
+  workflow_dispatch:
+
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://your-blog-feed.example/rss"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
+          readme_path: README.md
+          template: "\n<!-- BLOG-POST-LIST:START -->\n{{ posts }}\n<!-- BLOG-POST-LIST:END -->\n"
